@@ -3,7 +3,7 @@
 https://clictoc.com.ar
 Clictoc es un sistema que permite gestionar, de forma privada y singular, los clientes y paquetes de una empresa de logística.
 
-## Tecnologías utilziadas
+## Tecnologías utilizadas
 
 - PHP (Laravel 7).
 - Javascript (jQuery).
